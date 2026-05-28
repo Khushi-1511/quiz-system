@@ -1,4 +1,3 @@
-cat > README.md << 'ENDOFFILE'
 # Quiz System — Laravel
 
 A flexible, extensible quiz system built with Laravel that supports multiple question types, media uploads, and automated evaluation.
@@ -82,4 +81,3 @@ resources/views/
 | Total | | 12 hours (1.5 days) |
 
 I arrived at this estimate by breaking the project into its core concerns: data modeling, business logic (evaluation), and UI. The evaluation engine was given extra time because extensibility was a key requirement of the assignment.
-ENDOFFILE
